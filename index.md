@@ -2,12 +2,15 @@
 # Jie Wang, Ph.D.
 Assistant Professor, [School of Software Engineering](https://sse.tongji.edu.cn/En/Default), [Tongji University](https://en.tongji.edu.cn/)
 
-Email: wangjie_tongji'AT'tongji.edu.cn    Office: 408R Jishi Building    [My Google Scholar Page](https://scholar.google.com/citations?hl=en&user=_MuuaSAAAAAJ&view_op=list_works&sortby=pubdate&gmla=AJsN-F4rX0NZ0dxd0Xa9Dg78hvYE12mSaTK7DCyBKjPV4Aml__3hmgwAb17ubHzrUYpjRVukaeZyMZqc7A7MtAFyUNwKsiilGIbIgr-7OqtWA-poPyLg7XQ&sciund=17785344197311951447)
+<ins>Email</ins>: wangjie_tongji'AT'tongji.edu.cn
+
+<ins>Office</ins>: 408R Jishi Building, No. 4800 Cao'an Road
 
 
 ## About Me
 I graduated with my Ph.D. in Computer Engineering, under the supervision of Dr. [Wenye Wang](https://www.ece.ncsu.edu/people/wwang/) from [North Carolina State University](https://www.ncsu.edu/), in Oct. 2019. I received my M.S. and B.S. in Electrical Engineering from Tongji University, Shanghai, China, in 2010 and 2013 respectively.
 
+[My Google Scholar Page](https://scholar.google.com/citations?hl=en&user=_MuuaSAAAAAJ&view_op=list_works&sortby=pubdate&gmla=AJsN-F4rX0NZ0dxd0Xa9Dg78hvYE12mSaTK7DCyBKjPV4Aml__3hmgwAb17ubHzrUYpjRVukaeZyMZqc7A7MtAFyUNwKsiilGIbIgr-7OqtWA-poPyLg7XQ&sciund=17785344197311951447)
 
 ## Research Interests
 My research interests lie in the area of networking, including modeling and performance evaluation of networked systems (e.g., Internet-of-Things, cyber-physical systems, and social networks), dynamic spectrum access, information assurance, mobile/edge computing, and mobile big data.
